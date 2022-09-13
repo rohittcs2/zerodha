@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[running tc1]]>
+    </line>
+    <line>
+      <![CDATA[running tc2]]>
+    </line>
+    <line>
+      <![CDATA[running tc3]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-09-13T11:56:42 IST" name="Default suite" finished-at="2022-09-13T11:56:42 IST" duration-ms="404">
+    <groups>
+    </groups>
+    <test started-at="2022-09-13T11:56:42 IST" name="Default test" finished-at="2022-09-13T11:56:42 IST" duration-ms="404">
+      <class name="Test_NG.Raa">
+        <test-method signature="TC1()[pri:0, instance:Test_NG.Raa@5c909414]" started-at="2022-09-13T11:56:42 IST" name="TC1" finished-at="2022-09-13T11:56:42 IST" duration-ms="101" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[running tc1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method signature="TC2()[pri:0, instance:Test_NG.Raa@5c909414]" started-at="2022-09-13T11:56:42 IST" name="TC2" finished-at="2022-09-13T11:56:42 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[running tc2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method signature="TC3()[pri:0, instance:Test_NG.Raa@5c909414]" started-at="2022-09-13T11:56:42 IST" name="TC3" finished-at="2022-09-13T11:56:42 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[running tc3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+      </class> <!-- Test_NG.Raa -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
